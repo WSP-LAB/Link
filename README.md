@@ -80,8 +80,8 @@ To cite our paper:
 @inproceedings{lee:www:2022,
     author = {Lee, Soyoung and Wi, Seongil and Son, Sooel},
     title = {Link: Black-Box Detection of Cross-Site Scripting Vulnerabilities Using Reinforcement Learning},
-    year = {2022},
-    booktitle = {Proceedings of the ACM Web Conference 2022},
+    year = 2022,
+    booktitle = {Proceedings of the {ACM} Web Conference},
     pages = {743--754}
 }
 ```
