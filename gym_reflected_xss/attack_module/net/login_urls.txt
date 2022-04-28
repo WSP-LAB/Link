@@ -1,0 +1,2 @@
+http://143.248.247.127:8001/wordpress/wp-admin/
+/cmsimple/ login=true&selected=MISSING_HEADING&passwd=test
