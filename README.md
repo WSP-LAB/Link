@@ -82,5 +82,6 @@ To cite our paper:
     title = {Link: Black-Box Detection of Cross-Site Scripting Vulnerabilities Using Reinforcement Learning},
     year = {2022},
     booktitle = {Proceedings of the ACM Web Conference 2022},
+    pages = {743--754}
 }
 ```
