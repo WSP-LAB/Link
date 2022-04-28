@@ -1,6 +1,5 @@
 # Link
-Link is a general RL framework to find reflected XSS vulnerabilities in a black-box and fully automatic manner. It implemented on top of [Wapiti](https://github.com/wapiti-scanner/wapiti) a popular open source web scanner. And reinforcement learning components are implemeted based on [OpenAI gym](https://gym.openai.com/) and [Stable baselines](https://github.com/hill-a/
-stable-baselines)
+Link is a general RL framework to find reflected XSS vulnerabilities in a black-box and fully automatic manner. It implemented on top of [Wapiti](https://github.com/wapiti-scanner/wapiti) a popular open source web scanner. And reinforcement learning components are implemeted based on [OpenAI gym](https://gym.openai.com/) and [Stable baselines](https://github.com/hill-a/stable-baselines)
 The details of Link is in our [paper](https://dl.acm.org/doi/10.1145/3485447.3512234), "Link: Black-Box Detection of Cross-Site Scripting Vulnerabilities
 Using Reinforcement Learning" which appeared in The Web Conference 2022. 
 
